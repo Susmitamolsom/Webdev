@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(221, 242, 249);
+}
+h1 {
+    text-align: center;
+    color: brown;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 400px;
+}
+b{
+    color: firebrick;
+}
+em{
+    color: rgb(247, 11, 110);
+}
+p{
+    color: rgb(42, 42, 101);
+}
+h4{
+    color: rgb(178, 62, 62);
+}
+ul,ol{
+    color: rgb(62, 15, 106);
+}
+a{
+    color: green;
+}
+table{
+    border: double;
+}
+th{
+    color: rgb(171, 13, 45);
+}
+button{
+    color: rgb(3, 32, 3);
+}
+td{
+    color: rgb(81, 19, 19);
+}

@@ -1,0 +1,46 @@
+a{
+    font-family: Arial;
+    color: green;
+}
+ul,li{
+    font-weight: bold;
+    background-color: orange;
+    padding: 16px;
+}
+p{
+    font-size: 24px;
+}
+table tr td{
+    font-style: italic;
+    border: 1px solid;
+    padding: 16px;
+}
+h1,h2,h3,h4,h5,h6{
+    letter-spacing: 0.3cm;
+}
+header{
+    color: pink;
+}
+.about{
+    background-color: yellow;
+}
+.service{
+    background-color: blue;
+    color: white;
+}
+footer{
+    background-color: grey;
+}
+.odd td{
+    color: orange;
+}
+.even td{
+    color: grey;
+}
+th{
+    background-color: black;
+    color: white;
+}
+input{
+    background-color: pink;
+}
